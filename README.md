@@ -1,4 +1,7 @@
 # tugas7
+Menginstal dan konfigurasi SSH
+
+1Instal SSH
 
 ![image](https://github.com/user-attachments/assets/ecf257bb-0d9e-4665-8e0e-5b4420ff537c)
 
