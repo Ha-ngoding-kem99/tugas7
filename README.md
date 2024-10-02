@@ -2,10 +2,12 @@
 Menginstal dan konfigurasi SSH
 
 1.Instal SSH
+
 untuk menginstal SSH gunakan command sudo apt install openssh-server
 ![image](https://github.com/user-attachments/assets/ecf257bb-0d9e-4665-8e0e-5b4420ff537c)
 
 2.mengaktifkan SSH
+
 untuk mengaktifkan SSH gunakan command sudo systemctl enable --now ssh
 --now digunakan agar SSH diaktifkan ketika proses booting
 
@@ -15,7 +17,7 @@ gunakan command sudo systemctl status ssh untuk memeriksa status SSH
 
 ![image](https://github.com/user-attachments/assets/1c6aba51-e5d2-4328-bdfa-103cfc483fd4)
 
-sudo systemctl disable ssh untuk menonaktifkan SSH
+gunakan command sudo systemctl disable ssh untuk menonaktifkan SSH
 
 ![image](https://github.com/user-attachments/assets/60c16f98-2c4c-496b-a205-1078ee3ca611)
 
