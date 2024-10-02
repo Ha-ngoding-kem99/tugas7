@@ -1,4 +1,4 @@
-# tugas7
+# M.Hakeem Alqardhawi 09011282328072 SK3C
 Menginstal dan konfigurasi SSH
 
 1.Instal SSH
