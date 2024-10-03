@@ -32,7 +32,7 @@ jika terdapat daftar pada output, maka koneksi SSH diizinkan jika tidak, maka pe
 
 4.menyambung ke server
 ssh username@alamat ip atau ssh username@domain
-![image](https://github.com/user-attachments/assets/5b3748d6-08f5-45fa-a9b8-cb0b095ef5b2)
+![image](https://github.com/user-attachments/assets/a4504a38-f262-4768-9255-292f1587df97)
 
 untuk memeriksa alamat ip
 ![image](https://github.com/user-attachments/assets/115e1948-1598-4dab-882a-508d7044db70)
